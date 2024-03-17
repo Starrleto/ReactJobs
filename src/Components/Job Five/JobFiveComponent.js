@@ -28,10 +28,10 @@ const JobFiveComponent = () => {
           <Col lg={6} className="space">
           <h5 className="bold">Required Knowledge</h5>
             <p>
-              Depending which part of SJCOE I work at, they will be teaching 
+              Depending which part of SJCOE I work at, I'll be teaching different stuff that I'd have to learn. In that other STEM program I'm pretty sure they work with things more involved with robotics, engineering, and modeling. It wouldn't be too complex as those programs are generally meant for younger kids but I'd still have to learn it. 
             </p>
             <p>
-
+              If I taught at Codestack or something I'd have to become better at thsi web development stuff because I'd have to know it so I could actually teach it.
             </p>
           </Col>
           <Col lg={12}>
