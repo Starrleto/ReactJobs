@@ -19,7 +19,7 @@ const NavbarComponent = () => {
         <Nav.Link as={Link} to="/entr" eventKey="link-4" className='ok'>Entrepreneur</Nav.Link>
       </Nav.Item>
       <Nav.Item>
-        <Nav.Link as={Link} to="/fbi" eventKey="link-5" className='ok'>FBI Agent</Nav.Link>
+        <Nav.Link as={Link} to="/sjcoe" eventKey="link-5" className='ok'>SJCOE</Nav.Link>
       </Nav.Item>
     </Nav>
   )

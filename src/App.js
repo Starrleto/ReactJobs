@@ -29,7 +29,7 @@ function App() {
           <Route path='/free' element={<JobTwoComponent/>}></Route>
           <Route path='/riot' element={<JobThreeComponent/>}></Route>
           <Route path='/entr' element={<JobFourComponent/>}></Route>
-          <Route path='/fbi' element={<JobFiveComponent/>}></Route>
+          <Route path='/sjcoe' element={<JobFiveComponent/>}></Route>
           </Routes>
     </div>   
     </BrowserRouter>
