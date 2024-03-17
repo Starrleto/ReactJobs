@@ -1,0 +1,15 @@
+.center{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ok{
+    color:rgb(46, 55, 69);
+    font-weight: 600;
+}
+
+.pad{
+    padding-bottom: 60px;
+}
