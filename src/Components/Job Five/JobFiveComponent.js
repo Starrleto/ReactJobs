@@ -35,7 +35,7 @@ const JobFiveComponent = () => {
             </p>
           </Col>
           <Col lg={12}>
-
+            <a href="https://www.sjcoescience.org/" className='link'>Visit SJCOE</a>
           </Col>
         </Row>
       </Container>
